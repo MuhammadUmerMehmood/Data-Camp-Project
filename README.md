@@ -66,8 +66,6 @@ Three datasets were used:
 
 ---
 
----
-
 ## 👤 Author
 
 **Umer Mehmood**  
